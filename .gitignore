@@ -1,0 +1,122 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+s3cmd/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PyTorch specific
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Training data and models (ИСКЛЮЧИТЕЛЬНО ВАЖНО!)
+/data/
+/datasets/
+/models/
+/checkpoints/
+/runs/
+/outputs/
+/results/
+
+# Weights and large files (не коммитьте веса моделей!)
+*.h5
+*.hdf5
+*.tflite
+*.joblib
+
+# Dataset files (примеры - настройте под свои данные)
+*.csv
+*.json
+*.jsonl
+*.txt
+*.tsv
+
+# Logs
+*.log
+logs/
+
+# Configs with secrets (не коммитьте конфиги с ключами!)
+config.yaml
+config.yml
+*.config
+secrets.ini
+
+# Temporary files
+.temp/
+tmp/
+
+# Exceptions (если нужно добавить какие-то данные в репозиторий)
+!data/README.md

@@ -1,0 +1,11 @@
+<!-- Created by Oleh. All rights reserved. -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180">
+  <rect width="100%" height="100%" fill="white"/>
+  <g transform="translate(32,36)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="0" y="64" font-size="64" fill="#2563EB">{</text>
+    <text x="36" y="64" font-size="64" fill="#111827">cognitive_system</text>
+    <text x="612" y="64" font-size="64" fill="#2563EB">}</text>
+    <rect x="36" y="84" width="420" height="8" fill="#2563EB" rx="4"/>
+  </g>
+</svg>
