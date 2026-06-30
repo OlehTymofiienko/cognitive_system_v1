@@ -5,7 +5,7 @@
 ![cognitive_system logo](./cognitive_system_logo.svg)
 
 **Version:** 1.0.0  
-**License:** [Проприетарная (Custom Proprietary License)](LICENSE.md):
+**License:** [Проприетарная (Custom Proprietary License)](LICENSE.md)
         
 Copyright © 2025 Tymofiienko Oleh Anatoliiovych
 
@@ -204,7 +204,7 @@ graph LR
 
 ```bash
 git clone https://github.com/OlehTymofiienko/cognitive_system_v1.git
-cd cognitive-orchestration
+cd cognitive_system_v1
 pip install -r requirements.txt
 pip install -r dev-requirements.txt
 python -m spacy download en_core_web_sm
