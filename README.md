@@ -24,6 +24,17 @@ This license is designed to preserve the ethical integrity, conceptual originali
 
 For licensing inquiries, collaboration proposals, or academic usage requests, please contact the author directly.
 
+## Academic and Educational Use
+
+Students, teachers, and researchers are allowed to study this repository and use its code, concepts, and examples for non-commercial educational and academic purposes, including coursework, laboratory assignments, research discussions, and citation in academic projects.
+
+Any commercial use, redistribution, sublicensing, incorporation into commercial products, military use, surveillance use, or weaponized applications remains strictly prohibited without explicit written permission from the author.
+
+When using this project in academic or educational work, please cite the author and the repository:
+
+**Author:** Tymofiienko Oleh Anatoliiovych
+**Project:** cognitive_system
+**Repository:** https://github.com/OlehTymofiienko/cognitive_system_v1
 
 ### 🌟 About the Project
 
